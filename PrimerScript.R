@@ -7,3 +7,9 @@ ggplot(iris, aes(Petal.Length, Petal.Width))+
 ggsave("iris.pdf")
 
 write.csv(iris, "iris.csv")
+
+#Cambios de Sandy
+
+#Otro cambio 
+
+x <- 3+4
